@@ -1,8 +1,17 @@
 # todolist_responsi
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/7f3953a1-660b-42af-b05b-4dbd59e5349a">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/e0fca4d3-b490-4334-bcf1-b264c32e86f6">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/b527b654-58db-4368-8c50-5e1d785dc444">
-![image](https://github.com/user-attachments/assets/6f45f666-8e4c-4eb6-815f-2aedc7929cc2)
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/2c7e29d5-e2e3-4dc2-add6-155ec00425d4">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/0f8fa339-0963-45d5-b0d0-2b7415ce86a7">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/e777927f-f361-469f-80db-6587df2befaa">
+
+# Hasil Projek 
+
+![Screenshot 2024-11-15 215056](https://github.com/user-attachments/assets/ce13978f-5a0c-4e98-b925-cf5758c508f7)
+
+![Screenshot 2024-11-15 215139](https://github.com/user-attachments/assets/7997c8dc-a779-4e4e-8564-7788bb5f3e4f)
+
+![Screenshot 2024-11-15 215218](https://github.com/user-attachments/assets/2c751d92-606e-4b7b-86f6-bc614a9ad7c5)
+
+![Screenshot 2024-11-15 215417](https://github.com/user-attachments/assets/d54a6955-6842-4a35-9fd9-cfaeed85fd1e)
+
+![Screenshot 2024-11-15 215253](https://github.com/user-attachments/assets/9f0623d1-5668-449e-b412-68878137bace)
+
+![Screenshot 2024-11-15 215343](https://github.com/user-attachments/assets/5103a223-0d67-41d8-aa31-38ece872bde4)
+
+![Screenshot 2024-11-15 215356](https://github.com/user-attachments/assets/e631292b-9877-4d2d-99fa-a5d208391fcb)
